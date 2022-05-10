@@ -4,7 +4,7 @@ A brief description of what this project does and who it's for
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+Hi my name is Kevin, Im currently a student at the EPN and Im learning the programming career.
 
 
 ## 🔗 Links
