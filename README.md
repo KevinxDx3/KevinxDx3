@@ -1,10 +1,11 @@
 # ABOUT ME
 
-this file is a description for me 
+This file is a description for me 
 
 
 ## 🚀 About Me
 Hi my name is Kevin, Im currently a student at the EPN and Im learning the programming career.
+Im work in a family store.
 
 
 
