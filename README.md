@@ -1,10 +1,11 @@
-# Project Title
+# ABOUT ME
 
-A brief description of what this project does and who it's for
+this file is a description for me 
 
 
 ## 🚀 About Me
 Hi my name is Kevin, Im currently a student at the EPN and Im learning the programming career.
+
 
 
 ## 🔗 Links
@@ -14,4 +15,5 @@ Hi my name is Kevin, Im currently a student at the EPN and Im learning the progr
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+c++
+Phyton
