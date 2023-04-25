@@ -4,8 +4,9 @@ This file is a description for me
 
 
 ## 🚀 About Me
-Hi my name is Kevin, Im currently a student at the EPN and Im learning the programming career.
+Hi my name is Kevin, Im currently a student at the EPN and Im learning the programming carreer.
 Im work in a family store.
+Im working in diferent web projects based in Laravel  
 
 
 
@@ -18,3 +19,5 @@ Im work in a family store.
 ## 🛠 Skills
 c++
 Phyton
+JavaScript
+Laravel
