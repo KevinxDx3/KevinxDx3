@@ -16,7 +16,8 @@ Im working in diferent web projects based in Laravel
 
 
 ## 🛠 Skills
-c++
-Phyton
-JavaScript
-Laravel
+c++,
+Phyton,
+JavaScript,
+Laravel,
+Database SQL
