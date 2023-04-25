@@ -17,14 +17,13 @@ Im working in diferent web projects based in Laravel
 
 ## 🛠 Skills
 ```python
-import foobar
+C++
 
-# returns 'words'
-foobar.pluralize('word')
+JavaScript
 
-# returns 'geese'
-foobar.pluralize('goose')
+Python
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+SQL
+
+Laravel
 ```
