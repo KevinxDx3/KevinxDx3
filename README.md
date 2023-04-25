@@ -16,8 +16,15 @@ Im working in diferent web projects based in Laravel
 
 
 ## 🛠 Skills
-c++,
-Phyton,
-JavaScript,
-Laravel,
-Database SQL
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
